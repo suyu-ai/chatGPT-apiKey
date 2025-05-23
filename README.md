@@ -12,7 +12,7 @@
 >[一✨ 免费资源](https://free.suyu.io)
 >>[1.1 免费API KEY申请](https://free.suyu.io)
 >>
->>[1.2 免费镜像服务](https://github.com/suyu-ai/chatGPT-API_KEY?tab=readme-ov-file#21-%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
+>>[1.2 免费镜像服务](https://github.com/suyu-ai/chatGPT-apiKey/tree/main?tab=readme-ov-file#21-%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
 >
 >[二✨ 账户管理](https://https://dosage.suyu.io)
 >>[3.1 购买API KEY](https://suyu.io/topup)
