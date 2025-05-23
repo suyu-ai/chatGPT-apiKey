@@ -3,7 +3,7 @@
 
 <h1 align="center">🎁 速语AI转发 - 公益站  <a href="https://free.suyu.io" style="font-size: 1.2em; color: #ff6b6b;">点击这里</a> 🎁</h1>
 
-<h1 align="center">🌥️ 速语API - OpenAI官方中转服务 🌥️</h1>
+<h1 align="center">🌥️ 速语转发 - 顶级OpenAI官方中转服务 🌥️</h1>
 <h2 align="center">支持 GPT-4.0、GPT-4.1、Gemini、Claude 等200+模型</h2>
 </div>
 
